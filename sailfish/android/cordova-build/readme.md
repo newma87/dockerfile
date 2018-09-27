@@ -1,0 +1,1 @@
+### cordova@7.0.0的android构建镜像，内置了android api 27以及build tool 27.0.3
